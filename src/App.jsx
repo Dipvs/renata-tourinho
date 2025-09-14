@@ -27,7 +27,7 @@ function App() {
               </p>
               <div className="hero-buttons">
                 <a 
-                  href="https://forms.google.com/your-form-link" 
+                  href="https://docs.google.com/forms/d/1e6EiEUd0hOMnNzVmjQQMnQB6Uh9Y3erAtTHkkJD3Pfc/viewform?pli=1&pli=1&edit_requested=true" 
                   className="cta-button primary"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -217,7 +217,7 @@ function App() {
               <h3>Agende sua consulta</h3>
               <p>Preencha o pré-cadastro para iniciarmos seu processo terapêutico.</p>
               <a 
-                href="https://forms.google.com/your-form-link" 
+                href="https://docs.google.com/forms/d/1e6EiEUd0hOMnNzVmjQQMnQB6Uh9Y3erAtTHkkJD3Pfc/viewform?pli=1&pli=1&edit_requested=true" 
                 className="cta-button primary large"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -283,7 +283,7 @@ function App() {
             <div className="footer-links">
               <a href="#sobre">Sobre</a>
               <a href="#contato">Contato</a>
-              <a href="https://forms.google.com/your-form-link" target="_blank" rel="noopener noreferrer">
+              <a href="https://docs.google.com/forms/d/1e6EiEUd0hOMnNzVmjQQMnQB6Uh9Y3erAtTHkkJD3Pfc/viewform?pli=1&pli=1&edit_requested=true" target="_blank" rel="noopener noreferrer">
                 Pré-cadastro
               </a>
             </div>
