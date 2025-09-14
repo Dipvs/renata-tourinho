@@ -23,7 +23,7 @@ function App() {
               <h1 className="name">Renata Tourinho</h1>
               <h2 className="title">Psicóloga Clínica</h2>
               <p className="credentials">
-                Especialista em TCC • Pós-graduada em Neuropsicologia
+                Pós-Graduada em Neuropsicologia •  Terapia Cognitivo-Comportamental
               </p>
               <div className="hero-buttons">
                 <a 
@@ -115,7 +115,7 @@ function App() {
                 </div>
                 <div className="qualification-item">
                   <Brain className="qual-icon" />
-                  <span>Especialista em TCC</span>
+                  <span>Terapia Cognitivo-comportamental(TCC)</span>
                 </div>
                 <div className="qualification-item">
                   <Heart className="qual-icon" />
@@ -192,8 +192,8 @@ function App() {
                 </div>
                 <div className="contact-details">
                   <h3>E-mail</h3>
-                  <a href="mailto:renata.tourinho@email.com">
-                    renata.tourinho@email.com
+                  <a href="mailto:renatastourinho@gmail.com">
+                    renatastourinho@gmail.com
                   </a>
                 </div>
               </div>
@@ -245,7 +245,7 @@ function App() {
                   <h3>Empresarial Maximum</h3>
                   <p>João Pessoa, Paraíba</p>
                   <a 
-                    href="https://www.google.com/maps/place/Empresarial+Maximum/@-7.1214801,-34.870332,17z/data=!4m6!3m5!1s0x7ace76c7861f2d1:0xe91b4983c06d8562!8m2!3d-7.1214801!4d-34.8655684!16s%2Fg%2F11kt6yp6th?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D"
+                    href="https://www.google.com/maps/place/Psic%C3%B3loga+Renata+Tourinho/@-7.1209153,-34.8653492,17z/data=!3m1!4b1!4m6!3m5!1s0x7ace7e42244d5a3:0xfc22a97f711913e0!8m2!3d-7.1209153!4d-34.8653492!16s%2Fg%2F11xw83brkz?entry=ttu&g_ep=EgoyMDI1MDkxMC4wIKXMDSoASAFQAw%3D%3D"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="map-link"
@@ -255,18 +255,19 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="map-container">
-              <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.5463674633945!2d-34.87033200000001!3d-7.1214801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ace76c7861f2d1%3A0xe91b4983c06d8562!2sEmpresarial%20Maximum!5e0!3m2!1spt!2sbr!4v1694789012345!5m2!1spt!2sbr"
-                width="100%"
-                height="300"
-                style={{ border: 0 }}
-                allowFullScreen=""
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                title="Localização - Empresarial Maximum"
-              ></iframe>
-            </div>
+<div className="map-container">
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.540448425757!2d-34.86777472411978!3d-7.120915292911004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ace7e42244d5a3%3A0xfc22a97f711913e0!2sPsic%C3%B3loga%20Renata%20Tourinho!5e0!3m2!1spt-BR!2sbr!4v1726341500000!5m2!1spt-BR!2sbr"
+    width="100%"
+    height="300"
+    style={{ border: 0 }}
+    allowFullScreen=""
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+    title="Localização - Psicóloga Renata Tourinho"
+  ></iframe>
+</div>
+
           </div>
         </div>
       </section>
